@@ -20,7 +20,7 @@
                             <small>{{ post.created_date }}</small>
                         </h2>
                         <p>{{ post.introduction }}</p>
-                        <a href="{% url 'readmore' post.id%}" class="btn btn-default btn-lg">Leia Mais</a>
+                        <a href="{% url 'leiamais' post.id%}" class="btn btn-default btn-lg">Leia Mais</a>
                         <hr>
                     </div>
                 {% endfor %}
