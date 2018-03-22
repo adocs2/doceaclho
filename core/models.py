@@ -1,8 +1,8 @@
 from __future__ import unicode_literals
-from django.utils.encoding import force_bytes
+
+from ckeditor.fields import RichTextField
 from django.db import models
 from django.utils import timezone
-from ckeditor.fields import RichTextField
 
 
 class Post(models.Model):
@@ -27,13 +27,3 @@ class Intro(models.Model):
 class About(models.Model):
     photo = models.FileField()
     text = RichTextField()
-
-
-class Contact(models.Model):
-    name = models.CharField(max_length=250)
-    email = models.EmailField(max_length=250)
-    phone_number = models.CharField(max_length=15)
-    message = models.TextField(max_length=500)
-
-    def __str__(self):
-        return self.name

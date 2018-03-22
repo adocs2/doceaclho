@@ -22,16 +22,6 @@ class Migration(migrations.Migration):
             ],
         ),
         migrations.CreateModel(
-            name='Contact',
-            fields=[
-                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(max_length=250)),
-                ('email', models.EmailField(max_length=250)),
-                ('phone_number', models.CharField(max_length=15)),
-                ('message', models.TextField(max_length=500)),
-            ],
-        ),
-        migrations.CreateModel(
             name='Intro',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),

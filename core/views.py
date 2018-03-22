@@ -1,6 +1,10 @@
+from django.core.mail import BadHeaderError, send_mail
+from django.http import HttpResponse
+from django.shortcuts import render, redirect
 from django.views import generic
-from .models import Post, Intro, About, Contact
-from django.views.generic.edit import CreateView
+
+from core.forms import ContactForm
+from .models import Post, Intro, About
 
 
 class IndexView(generic.ListView):
@@ -33,7 +37,19 @@ class AboutView(generic.ListView):
         return About.objects.all()
 
 
-class ContactCreate(CreateView):
-    model = Contact
-    template_name = 'core/contact.html'
-    fields = ['name', 'email', 'phone_number', 'message']
+def emailView(request):
+    if request.method == 'GET':
+        form = ContactForm()
+    else:
+        form = ContactForm(request.POST)
+        if form.is_valid():
+            subject = form.cleaned_data['Assunto']
+            from_email = form.cleaned_data['Email']
+            message = form.cleaned_data['Messagem']
+            fullMessage = "Email: " + from_email + '\n' + "Mensagem: " + message
+            try:
+                send_mail(subject, fullMessage, from_email, ['afonso-dias2011@hotmail.com'])
+            except BadHeaderError:
+                return HttpResponse('Invalid header found.')
+            return redirect('index')
+    return render(request, "core/contact.html", {'form': form})

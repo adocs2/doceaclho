@@ -1,29 +1,7 @@
-{% for field in form %}
-    {% if field.name == 'name' %}
-        <div class="form-group col-lg-4">
-            <label>Nome</label>
-            <input type="text"  class="form-control" name="name">
-        </div>
-    {% endif %}
-
-    {% if field.name == 'email' %}
-        <div class="form-group col-lg-4">
-            <label>Email</label>
-            <input type="email" class="form-control" name="email">
-        </div>
-    {% endif %}
-
-    {% if field.name == 'phone_number' %}
-        <div class="form-group col-lg-4">
-            <label>Telefone</label>
-            <input type="tel" class="form-control" name="phone_number">
-        </div>
-    {% endif %}
-
-    {% if field.name == 'message' %}
-     <div class="clearfix"></div>
-        <div class="form-group col-lg-12">
-            <label>Mensagem</label>
-            <textarea class="form-control" rows="6" name="message"></textarea></div>
-    {% endif %}
-{% endfor %}
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <div class="form-actions" style="text-align: center">
+      <button type="submit" class="btn btn-success">Enviar</button>
+    </div>
+</form>
