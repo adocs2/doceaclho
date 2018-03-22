@@ -13,7 +13,7 @@ class Post(models.Model):
     image = models.FileField()
 
     def __str__(self):
-        return force_bytes(self.title)
+        return self.title
 
 
 class Intro(models.Model):
@@ -21,7 +21,7 @@ class Intro(models.Model):
     text = RichTextField()
 
     def __str__(self):
-        return force_bytes(self.title)
+        return self.title
 
 
 class About(models.Model):
@@ -36,4 +36,4 @@ class Contact(models.Model):
     message = models.TextField(max_length=500)
 
     def __str__(self):
-        return force_bytes(self.name)
+        return self.name
