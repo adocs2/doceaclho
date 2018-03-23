@@ -46,7 +46,7 @@ def emailView(request):
             subject = form.cleaned_data['Assunto']
             from_email = form.cleaned_data['Email']
             message = form.cleaned_data['Messagem']
-            fullMessage = "Email: " + from_email + '\n' + "Mensagem: " + message
+            fullMessage = "Email do cliente: " + from_email + '\n' '\n' + message
             try:
                 send_mail(subject, fullMessage, from_email, ['docealho@gmail.com'])
             except BadHeaderError:
