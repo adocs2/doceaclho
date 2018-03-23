@@ -124,10 +124,10 @@ CKEDITOR_UPLOAD_PATH = "uploads/"
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'afonso199626@gmail.com'
-EMAIL_HOST_PASSWORD = 'afonso1996.'
+EMAIL_HOST_USER = 'docealho@gmail.com'
+EMAIL_HOST_PASSWORD = 'docealho2016.'
 EMAIL_USE_TLS = True
-DEFAULT_FROM_EMAIL = 'Equipe Doce Alho <afonso199626@gmail.com>'
+DEFAULT_FROM_EMAIL = 'Equipe Doce Alho <docealho@gmail.com>'
 
 CKEDITOR_CONFIGS = { 'default': { 'toolbar': None, },
 }

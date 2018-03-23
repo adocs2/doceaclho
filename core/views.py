@@ -48,7 +48,7 @@ def emailView(request):
             message = form.cleaned_data['Messagem']
             fullMessage = "Email: " + from_email + '\n' + "Mensagem: " + message
             try:
-                send_mail(subject, fullMessage, from_email, ['afonso-dias2011@hotmail.com'])
+                send_mail(subject, fullMessage, from_email, ['docealho@gmail.com'])
             except BadHeaderError:
                 return HttpResponse('Invalid header found.')
             return redirect('index')
