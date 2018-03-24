@@ -18,7 +18,7 @@ class IndexView(generic.ListView):
 class BlogView(generic.ListView):
     template_name = 'core/blog.html'
     context_object_name = 'all_posts'
-    paginate_by = 1
+    paginate_by = 4
 
     def get_queryset(self):
         return Post.objects.all()
