@@ -17,6 +17,8 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="{% static 'core/css/teste.css' %}"/>
+    <script src="https://cdn.plyr.io/3.0.11/plyr.js"></script>
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.0.11/plyr.css">
 
 
     <!-- Fonts -->
@@ -25,17 +27,8 @@
 
 
 </head>
-    <p>
-        <a href="{% url 'index' %}">
-            <img class='img-logo' border="0" src="static/core/images/logo.png">
-        </a>
-    </p>
-
-    <div class="address-bar">Desfrute da vida com mais saúde</div>
-
-
     <!-- Navigation -->
-    <nav class="navbar navbar-default" role="navigation">
+    <nav style="margin-bottom: 10px" class="navbar navbar-default" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -79,7 +72,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Doce Alho 2018</p>
+                    <p>
+                        &copy; Doce Alho 2018
+                        <a href="https://www.instagram.com/docealho/" target="instagram">
+                            <img border="0" style="margin-left: 10px" src="static/core/images/Instagram_Icon_inverted.svg" width="25"
+                                 height="25">
+                        </a>
+                    </p>
                 </div>
             </div>
         </div>

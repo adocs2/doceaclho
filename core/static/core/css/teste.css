@@ -1,6 +1,6 @@
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../images/background.JPG') no-repeat center center fixed;
+    background-color: #ffe5ea ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -80,7 +80,7 @@ hr {
 }
 
 .box {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     padding: 30px 15px;
     background: #fff;
     background: rgba(255,255,255,0.9);
@@ -172,7 +172,7 @@ footer p {
         padding: 35px;
     }
 
-    .navbar-nav>li>a {
+    .navbar-nav > li > a {
         line-height: normal;
     }
 
@@ -182,6 +182,22 @@ footer p {
         margin: 0 auto;
         table-layout: fixed;
         font-size: 1.25em;
+    }
+
+    .iframe-rwd {
+        position: relative;
+        padding-bottom: 65.25%;
+        padding-top: 30px;
+        height: 0;
+        overflow: hidden;
+    }
+
+    .iframe-rwd iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
     }
 }
 
