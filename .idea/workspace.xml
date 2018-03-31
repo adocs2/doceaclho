@@ -2,13 +2,205 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3ddff0f-acec-4f69-b1a1-d7beed3d318c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/docealho.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/docealho.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/CHANGES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/build-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/ckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/contents.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/de-ch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/en-au.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/en-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/en-gb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/es-mx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/fo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/fr-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/gu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ku.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/mn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/oc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/pt-br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/sr-latn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/tt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/ug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/lang/zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/about/dialogs/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/ajax/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/bbcode/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/dialog/dialogDefinition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/div/dialogs/div.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/embed/icons/embed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/embed/icons/hidpi/embed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/embed/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/find/dialogs/find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/flash/dialogs/flash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/flash/images/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/forms/dialogs/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/forms/dialogs/checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/forms/dialogs/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/forms/dialogs/hiddenfield.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/forms/dialogs/radio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/forms/dialogs/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/forms/dialogs/textarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/forms/dialogs/textfield.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/forms/images/hiddenfield.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/icons_hidpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/iframe/dialogs/iframe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/iframe/images/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image/dialogs/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image/images/noimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/en-au.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/mn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/ug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/image2/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/link/dialogs/anchor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/link/dialogs/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/link/images/anchor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/link/images/hidpi/anchor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/scayt/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/scayt/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/scayt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/scayt/dialogs/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/scayt/dialogs/toolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/table/dialogs/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/wsc/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/wsc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/wsc/dialogs/ciframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/plugins/xml/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/dialog_ie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/dialog_ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/dialog_iequirks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/editor_gecko.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/editor_ie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/editor_ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/editor_iequirks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/icons_hidpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/lock-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/images/spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono-lisa/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/dialog_ie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/dialog_ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/dialog_ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/dialog_iequirks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/editor_gecko.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/editor_ie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/editor_ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/editor_ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/editor_iequirks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/icons_hidpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/hidpi/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/hidpi/lock-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/hidpi/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/hidpi/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/lock-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/images/spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/skins/moono/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/static/ckeditor/ckeditor/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ckeditor/widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/tcl8.6/init.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/static/core/css/teste.css" beforeDir="false" afterPath="$PROJECT_DIR$/core/static/core/css/teste.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/form-template.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/form-template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/static/core/images/logo-nome.png" beforeDir="false" afterPath="$PROJECT_DIR$/core/static/core/images/logo-nome.png" afterDir="false" />
     </list>
     <ignored path="docealho.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,7 +227,7 @@
         <entry file="file://$PROJECT_DIR$/core/templates/core/form-template.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#form#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#div#0;n#form#0;n#!!top" expanded="true" />
@@ -53,17 +245,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/templates/core/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="27" column="129" selection-start-line="27" selection-start-column="129" selection-end-line="27" selection-end-column="129" />
-              <folding>
-                <element signature="e#508#534#0#HTML" expanded="true" />
-                <element signature="e#665#691#0#HTML" expanded="true" />
-                <element signature="e#833#859#0#HTML" expanded="true" />
-                <element signature="e#1019#1045#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -92,12 +278,8 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/templates/core/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="78" column="45" lean-forward="true" selection-start-line="77" selection-start-column="28" selection-end-line="78" selection-end-column="45" />
-              <folding>
-                <element signature="n#style#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="349">
+              <caret line="78" column="45" selection-start-line="77" selection-start-column="28" selection-end-line="78" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -139,10 +321,15 @@
       <file leaf-file-name="teste.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/static/core/css/teste.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="109" column="1" lean-forward="true" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
+            <state relative-caret-position="51">
+              <caret line="3" column="78" selection-start-line="3" selection-start-column="78" selection-end-line="3" selection-end-column="78" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo-nome.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/static/core/images/logo-nome.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
@@ -262,9 +449,9 @@
         <option value="$PROJECT_DIR$/core/templates/core/blog.html" />
         <option value="$PROJECT_DIR$/core/templates/core/index.html" />
         <option value="$PROJECT_DIR$/core/templates/core/form-template.html" />
-        <option value="$PROJECT_DIR$/core/static/core/css/teste.css" />
         <option value="$PROJECT_DIR$/core/templates/core/base.html" />
         <option value="$PROJECT_DIR$/core/templates/core/contact.html" />
+        <option value="$PROJECT_DIR$/core/static/core/css/teste.css" />
       </list>
     </option>
   </component>
@@ -320,12 +507,6 @@
               <item name="docealho" type="b2602c69:ProjectViewProjectNode" />
               <item name="docealho" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docealho" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docealho" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -334,14 +515,6 @@
               <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docealho" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docealho" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="docealho" type="b2602c69:ProjectViewProjectNode" />
@@ -350,24 +523,6 @@
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docealho" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docealho" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docealho" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docealho" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docealho" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docealho" type="462c0819:PsiDirectoryNode" />
-              <item name="docealho" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -705,32 +860,40 @@
       <option name="project" value="LOCAL" />
       <updated>1521860190590</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ajustes no html + style">
+      <created>1522455840241</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1522455840241</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.501708" side_tool="true" weight="0.32870772" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32870772" />
-      <window_info anchor="bottom" x="-2" y="38" width="1918" height="991" id="Run" order="2" type="WINDOWED" weight="0.20385051" />
+      <window_info anchor="bottom" x="0" y="23" width="1920" height="1057" id="Run" order="2" type="WINDOWED" visible="true" weight="0.20385051" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32870772" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15031983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15191898" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="manage.py@docealho" order="8" sideWeight="0.49829206" visible="true" weight="0.32870772" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="manage.py@docealho" order="8" sideWeight="0.49829206" visible="true" weight="0.32870772" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Data View" order="4" />
@@ -758,9 +921,57 @@
     <MESSAGE value="adicionando email do doce alho + colocando |safe nas intros" />
     <MESSAGE value="Ajustes no texto do email" />
     <MESSAGE value="ajustes na paginacao + estilo da pagina de produtos" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajustes na paginacao + estilo da pagina de produtos" />
+    <MESSAGE value="ajustes no html + style" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes no html + style" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docealho/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/core/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="129" selection-start-line="27" selection-start-column="129" selection-end-line="27" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/templates/core/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -796,9 +1007,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docealho/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -815,9 +1023,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docealho/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/core/models.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -870,9 +1075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/templates/core/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/static/core/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24706">
@@ -921,9 +1123,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/templates/core/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/static/core/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24706">
@@ -937,9 +1136,6 @@
           <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docealho/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/core/template/post_list.html" />
     <entry file="file://$PROJECT_DIR$/core/static/core/images/slide/alho_negro4.jpg" />
@@ -956,9 +1152,6 @@
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/static/core/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/core/templates/core/about.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1079,7 +1272,7 @@
     <entry file="file://$PROJECT_DIR$/core/templates/core/form-template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#form#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#0;n#form#0;n#!!top" expanded="true" />
@@ -1105,36 +1298,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/static/core/css/teste.css">
+    <entry file="file://$PROJECT_DIR$/core/templates/core/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="109" column="1" lean-forward="true" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
+        <state relative-caret-position="459">
+          <caret line="27" column="129" selection-start-line="27" selection-start-column="129" selection-end-line="27" selection-end-column="129" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/templates/core/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="78" column="45" lean-forward="true" selection-start-line="77" selection-start-column="28" selection-end-line="78" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#nav#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="349">
+          <caret line="78" column="45" selection-start-line="77" selection-start-column="28" selection-end-line="78" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/templates/core/contact.html">
+    <entry file="file://$PROJECT_DIR$/core/static/core/css/teste.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="129" selection-start-line="27" selection-start-column="129" selection-end-line="27" selection-end-column="129" />
-          <folding>
-            <element signature="e#508#534#0#HTML" expanded="true" />
-            <element signature="e#665#691#0#HTML" expanded="true" />
-            <element signature="e#833#859#0#HTML" expanded="true" />
-            <element signature="e#1019#1045#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="78" selection-start-line="3" selection-start-column="78" selection-end-line="3" selection-end-column="78" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/static/core/images/logo-nome.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
